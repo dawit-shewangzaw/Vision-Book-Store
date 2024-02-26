@@ -35,7 +35,7 @@ Welcome to Vision Book Store, a web application designed to showcase new book an
 1, Clone the repository: Open your terminal or command prompt and navigate to your desired local directory. Then, run the following command to clone the repository:
 
 * **Bash:**
-* git clone [https://github.com/your-username/vision-book-store.git](https://github.com/Dave051621/Vision-Book-Store)
+* git clone https://github.com/Dave051621/Vision-Book-Store
 
 2, Click Go Live to run the project.
 
